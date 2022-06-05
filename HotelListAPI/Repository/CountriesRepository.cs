@@ -1,6 +1,8 @@
-﻿using HotelListingAPI.Contracts;
-using HotelListingAPI.Data;
+﻿using HotelListingAPI.Data;
+using HotelListingAPI.Contracts;
+
 using Microsoft.EntityFrameworkCore;
+
 
 namespace HotelListingAPI.Repository
 {
